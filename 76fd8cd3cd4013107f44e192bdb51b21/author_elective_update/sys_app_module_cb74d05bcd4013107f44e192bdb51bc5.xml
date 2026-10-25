@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Wish Item">a37f4c17cd4013107f44e192bdb51b6e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sys_aw_new_menu_item</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-25 13:15:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cb74d05bcd4013107f44e192bdb51bc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WishList " source="x_1234_wishlist">76fd8cd3cd4013107f44e192bdb51b21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList ">76fd8cd3cd4013107f44e192bdb51b21</sys_scope>
+        <sys_update_name>sys_app_module_cb74d05bcd4013107f44e192bdb51bc5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-25 13:15:46</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WishList ">76fd8cd3cd4013107f44e192bdb51b21</application>
+        <file_path/>
+        <instance_id>1dbd96dcc3c0db503ce5b55ce0013172</instance_id>
+        <instance_name>nowlearning-nlinst04787134-28sju-0001</instance_name>
+        <name>sys_app_module_cb74d05bcd4013107f44e192bdb51bc5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Wish Item">a37f4c17cd4013107f44e192bdb51b6e</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_aw_new_menu_item</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-25 13:15:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cb74d05bcd4013107f44e192bdb51bc5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="WishList " source="x_1234_wishlist">76fd8cd3cd4013107f44e192bdb51b21</sys_package><sys_policy/><sys_scope display_value="WishList ">76fd8cd3cd4013107f44e192bdb51b21</sys_scope><sys_update_name>sys_app_module_cb74d05bcd4013107f44e192bdb51bc5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-25 13:15:46</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>544707441</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>7afd8cd3cd4013107f44e192bdb51b22</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-25 13:15:46</sys_created_on>
+        <sys_id>e815585bcd4013107f44e192bdb51bbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a17333f0c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-25 13:15:46</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a415585bcb4013105766313e9cd635bc</update_guid>
+        <update_guid_history>a415585bcb4013105766313e9cd635bc:544707441</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">4627d0dbcd4013107f44e192bdb51b7f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-25 13:24:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>76fe51dbbcc441a58709aa2548022241</sys_id>
+        <sys_metadata>cb74d05bcd4013107f44e192bdb51bc5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="WishList " source="x_1234_wishlist">76fd8cd3cd4013107f44e192bdb51b21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WishList ">76fd8cd3cd4013107f44e192bdb51b21</sys_scope>
+        <sys_scope_delete display_value="">b0d8202068eb487a90605681bcb54984</sys_scope_delete>
+        <sys_update_name>sys_app_module_cb74d05bcd4013107f44e192bdb51bc5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cb74d05bcd4013107f44e192bdb51bc5">e815585bcd4013107f44e192bdb51bbc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-25 13:24:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
